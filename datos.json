@@ -1,0 +1,45 @@
+{
+    "ciudades": [
+      {
+        "nombre": "Buenos Aires",
+        "temperatura": "20°C",
+        "condicion": "Mayormente soleado"
+      },
+      {
+        "nombre": "Santiago",
+        "temperatura": "22°C",
+        "condicion": "Parcialmente nublado"
+      },
+      {
+        "nombre": "Lima",
+        "temperatura": "25°C",
+        "condicion": "Nublado"
+      },
+      {
+        "nombre": "Ciudad de México",
+        "temperatura": "18°C",
+        "condicion": "Lluvioso"
+      },
+      {
+        "nombre": "São Paulo",
+        "temperatura": "23°C",
+        "condicion": "Mayormente soleado"
+      },
+      {
+        "nombre": "Bogotá",
+        "temperatura": "17°C",
+        "condicion": "Lluvia ligera"
+      },
+      {
+        "nombre": "Lima",
+        "temperatura": "25°C",
+        "condicion": "Nublado"
+      },
+      {
+        "nombre": "Montevideo",
+        "temperatura": "19°C",
+        "condicion": "Mayormente despejado"
+      }
+    ]
+  }
+  

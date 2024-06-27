@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Clima - Selección de Ciudad</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
+</head>
+<body>
+    <h1>Consulta de Clima - Selección de Ciudad</h1>
+    <form id="cityForm" action="clima.html" method="GET">
+        <label for="citySelect">Selecciona una ciudad:</label>
+        <select id="citySelect" name="city">
+            <!-- Aquí se cargarán las opciones de ciudades desde JavaScript -->
+        </select>
+        <br>
+        <button type="submit">Consultar Clima</button>
+    </form>
+
+    <br>
+    <a href="clima.html">Ir a la página de clima</a>
+
+    <script src="./js/index.js"></script>
+</body>
+</html>
